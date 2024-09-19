@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HapooIsLuv
-- 👀 I’m interested in python and maybe java(I hate java)
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on no one!
-- 📫 How to reach me idk
+- 👀 I’m interested in python and maybe Java(I hate Java)
+- 🌱 I’m currently learning nothing (taking a break)
+- 💞️ I’m looking to collaborate with no one!
+- 📫 How to reach me: snapchat
 - 😄 Pronouns: penguin/cucumber/peanut
-- ⚡ Fun fact: Cucumber is nice
+- ⚡ Fun fact: I love pink penguins
 
 <!---
 HapooIsLuv/HapooIsLuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
