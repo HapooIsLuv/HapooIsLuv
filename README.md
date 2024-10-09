@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HapooIsLuv
 - 👀 I’m interested in python and maybe Java(I hate Java)
-- 🌱 I’m currently learning nothing (taking a break)
+- 🌱 I’m currently learning HTML, CSS and JavaScript. (Preparing for my first hackathon!)
 - 💞️ I’m looking to collaborate with no one!
 - 📫 How to reach me: snapchat
 - 😄 Pronouns: penguin/cucumber/peanut
