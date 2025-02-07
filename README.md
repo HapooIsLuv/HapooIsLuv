@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HapooIsLuv
-- 👀 I’m interested in python and maybe Java(I hate Java)
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate with no one!
+- 👀 I’m interested in Javascript and a little bit of Rust
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate with people who are better than me!
 - 📫 How to reach me: snapchat
 - 😄 Pronouns: penguin/cucumber/peanut
 - ⚡ Fun fact: I love pink penguins
