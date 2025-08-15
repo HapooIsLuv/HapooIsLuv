@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HapooIsLuv
-- 👀 I’m interested in Javascript and a little bit of Rust
+- 👀 I’m interested in Rust. Rust for life (js jk)
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate with people who are better than me!
 - 📫 How to reach me: snapchat
